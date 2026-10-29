@@ -1,0 +1,6 @@
+{
+  "api_key": "YOUR_API_KEY_HERE",
+  "base_url": "https://generativelanguage.googleapis.com/v1beta/openai/",
+  "model": "gemini-2.5-flash",
+  "last_dir": ""
+}
